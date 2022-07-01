@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*位置型pid*/
+/*位置式pid*/
 
 struct _pid{
     float aim_altitude;
